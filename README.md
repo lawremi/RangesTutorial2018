@@ -43,17 +43,15 @@ Describe how students will be expected to participate in the workshop.
 
 ## Time outline
 
-	| Activity                     | Time |
-	|------------------------------|------|
-	| Intro slides                 | 30m  |
-	| Workflow(s)                  | 1hr  |
-    | Remaining questions          | 30m  |
+| Activity                     | Time |
+|------------------------------|------|
+| Intro slides                 | 30m  |
+| Workflow(s)                  | 1hr  |
+| Remaining questions          | 30m  |
 
 # Workshop goals and objectives
 
 ## Learning goals
-
-Some examples:
 
  * Understand how to apply the *Ranges infrastructure to real-world
    problems
